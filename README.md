@@ -4,14 +4,14 @@
 
 I am a Customer Success and Operations professional with experience in customer relationship management, process optimization, and operational excellence.
 
-Currently, I am expanding my expertise in Data Analytics, Artificial Intelligence, and Machine Learning through hands-on projects focused on solving real business challenges.
+Currently, I am expanding my expertise in Data Analytics, Artificial Intelligence, and Machine Learning through hands-on projects focused on solving real-world business challenges.
 
 ## 🚀 Areas of Interest
 
 * Customer Success Analytics
 * Machine Learning
 * Artificial Intelligence
-* Data Analysis
+* Data Analytics
 * Process Optimization
 * CRM Management
 * Business Intelligence
@@ -25,7 +25,7 @@ Currently, I am expanding my expertise in Data Analytics, Artificial Intelligenc
 * TensorFlow
 * Keras
 * OpenCV
-* NLP
+* Natural Language Processing (NLP)
 * Gradio
 * Git & GitHub
 
@@ -33,11 +33,11 @@ Currently, I am expanding my expertise in Data Analytics, Artificial Intelligenc
 
 ### 📊 Customer Churn Prediction
 
-Machine Learning project to identify customers at risk of churn and support proactive retention strategies.
+Machine Learning project designed to identify customers at risk of churn and support proactive retention strategies.
 
 ### 💳 Credit Card Fraud Detection
 
-Advanced classification system using XGBoost, Random Forest, and SMOTE techniques.
+Advanced fraud detection system using XGBoost, Random Forest, and SMOTE techniques.
 
 ### 😊 AI Sentiment Analyzer
 
@@ -45,7 +45,7 @@ Natural Language Processing application for analyzing customer feedback and sent
 
 ### 👁️ Computer Vision with OpenCV
 
-Image processing and computer vision pipeline including edge detection, contours, and color segmentation.
+Computer vision pipeline including edge detection, contour analysis, and color segmentation.
 
 ## 🌱 Currently Learning
 
