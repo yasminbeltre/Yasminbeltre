@@ -1,6 +1,6 @@
 # Hola, soy Yasmin Beltre 👋
 
-### Customer Success & Operations Specialist | Data Analytics | AI Projects | Python | Machine Learning
+### Especialista en Éxito del Cliente y Operaciones | Análisis de Datos | Proyectos de IA | Python | Machine Learning
 
 Soy una profesional de Customer Success y Operaciones con experiencia en gestión de relaciones con clientes, optimización de procesos y excelencia operativa.
 
@@ -8,7 +8,7 @@ Actualmente, estoy ampliando mis conocimientos en Análisis de Datos, Inteligenc
 
 ## 🚀 Áreas de interés
 
-* Customer Success Analytics
+* Analítica de Customer Success
 * Machine Learning
 * Inteligencia Artificial
 * Análisis de Datos
