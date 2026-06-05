@@ -57,5 +57,5 @@ Pipeline de visión por computadora que incluye detección de bordes, análisis 
 
 ## 🔗 Conecta conmigo
 
-- LinkedIn: https://www.linkedin.com/in/yasmin-beltre
+- LinkedIn: https://www.linkedin.com/in/yasminbeltre
 - GitHub: https://github.com/yasminbeltre
