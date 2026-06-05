@@ -22,40 +22,40 @@ Actualmente, estoy ampliando mis conocimientos en Análisis de Datos, Inteligenc
 * Pandas
 * NumPy
 * Scikit-learn
-* TensorFlow
-* Keras
-* OpenCV
-* Procesamiento del Lenguaje Natural (NLP)
+* XGBoost
 * Gradio
+* Procesamiento del Lenguaje Natural (NLP)
 * Git & GitHub
+* Google Colab
 
 ## 📂 Proyectos destacados
 
-### 📊 Predicción de Abandono de Clientes
+### 📊 [Predicción de Abandono de Clientes](https://github.com/yasminbeltre/customer-churn-prediction)
+Modelo de Machine Learning con Random Forest y Regresión Logística para identificar clientes en riesgo de churn en telecomunicaciones. Accuracy: 79.25%.
 
-Proyecto de Machine Learning diseñado para identificar clientes con riesgo de abandono y apoyar estrategias de retención proactivas.
+### 💳 [Detección de Fraude con Tarjetas de Crédito](https://github.com/yasminbeltre/deteccion-fraude-tarjetas-ml)
+Sistema avanzado de detección de fraude con XGBoost, Random Forest y balanceo de datos con SMOTE.
 
-### 💳 Detección de Fraude con Tarjetas de Crédito
+### 😊 [Analizador de Sentimientos con IA](https://github.com/yasminbeltre/analizador-sentimientos-ia)
+Herramienta de análisis de sentimientos en español usando NLP, Transformers y NLTK.
 
-Sistema avanzado de detección de fraude utilizando XGBoost, Random Forest y técnicas de balanceo de datos con SMOTE.
+### 🖥️ [Dashboard Interactivo de IA](https://github.com/yasminbeltre/dashboard-interactivo-ia)
+Aplicación web interactiva sobre fundamentos de IA con asistente de preguntas integrado — Python y Gradio.
 
-### 😊 Analizador de Sentimiento con IA
-
-Aplicación de Procesamiento del Lenguaje Natural para analizar opiniones y comentarios de clientes.
-
-### 👁️ Visión por Computadora con OpenCV
-
-Pipeline de visión por computadora que incluye detección de bordes, análisis de contornos y segmentación por color.
+### ⚖️ [Ética y Sesgo en IA](https://github.com/yasminbeltre/etica-ia-customer-success)
+Análisis académico sobre sesgo algorítmico aplicado a Customer Success y operaciones empresariales.
 
 ## 🌱 Actualmente aprendiendo
 
-* Machine Learning
-* Deep Learning
-* IA Generativa
-* Data Analytics
+* MLOps y despliegue de modelos
+* IA Generativa y LLMs
+* Ética y Sesgo en IA
 * Aplicaciones de IA para Customer Success
 
 ## 🔗 Conecta conmigo
 
 - LinkedIn: https://www.linkedin.com/in/yasminbeltre
 - GitHub: https://github.com/yasminbeltre
+
+---
+*Portafolio desarrollado como parte del programa de formación en Inteligencia Artificial - INDOTEL 2026 — Santo Domingo, República Dominicana.*
