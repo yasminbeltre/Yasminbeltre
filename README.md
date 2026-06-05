@@ -1,22 +1,22 @@
-# Hi, I'm Yasmin Beltre 👋
+# Hola, soy Yasmin Beltre 👋
 
 ### Customer Success & Operations Specialist | Data Analytics | AI Projects | Python | Machine Learning
 
-I am a Customer Success and Operations professional with experience in customer relationship management, process optimization, and operational excellence.
+Soy una profesional de Customer Success y Operaciones con experiencia en gestión de relaciones con clientes, optimización de procesos y excelencia operativa.
 
-Currently, I am expanding my expertise in Data Analytics, Artificial Intelligence, and Machine Learning through hands-on projects focused on solving real-world business challenges.
+Actualmente, estoy ampliando mis conocimientos en Análisis de Datos, Inteligencia Artificial y Machine Learning mediante proyectos prácticos enfocados en la resolución de desafíos empresariales reales.
 
-## 🚀 Areas of Interest
+## 🚀 Áreas de interés
 
 * Customer Success Analytics
 * Machine Learning
-* Artificial Intelligence
-* Data Analytics
-* Process Optimization
-* CRM Management
+* Inteligencia Artificial
+* Análisis de Datos
+* Optimización de Procesos
+* Gestión de CRM
 * Business Intelligence
 
-## 🛠️ Technologies
+## 🛠️ Tecnologías
 
 * Python
 * Pandas
@@ -25,37 +25,37 @@ Currently, I am expanding my expertise in Data Analytics, Artificial Intelligenc
 * TensorFlow
 * Keras
 * OpenCV
-* Natural Language Processing (NLP)
+* Procesamiento del Lenguaje Natural (NLP)
 * Gradio
 * Git & GitHub
 
-## 📂 Featured Projects
+## 📂 Proyectos destacados
 
-### 📊 Customer Churn Prediction
+### 📊 Predicción de Abandono de Clientes
 
-Machine Learning project designed to identify customers at risk of churn and support proactive retention strategies.
+Proyecto de Machine Learning diseñado para identificar clientes con riesgo de abandono y apoyar estrategias de retención proactivas.
 
-### 💳 Credit Card Fraud Detection
+### 💳 Detección de Fraude con Tarjetas de Crédito
 
-Advanced fraud detection system using XGBoost, Random Forest, and SMOTE techniques.
+Sistema avanzado de detección de fraude utilizando XGBoost, Random Forest y técnicas de balanceo de datos con SMOTE.
 
-### 😊 AI Sentiment Analyzer
+### 😊 Analizador de Sentimiento con IA
 
-Natural Language Processing application for analyzing customer feedback and sentiment.
+Aplicación de Procesamiento del Lenguaje Natural para analizar opiniones y comentarios de clientes.
 
-### 👁️ Computer Vision with OpenCV
+### 👁️ Visión por Computadora con OpenCV
 
-Computer vision pipeline including edge detection, contour analysis, and color segmentation.
+Pipeline de visión por computadora que incluye detección de bordes, análisis de contornos y segmentación por color.
 
-## 🌱 Currently Learning
+## 🌱 Actualmente aprendiendo
 
 * Machine Learning
 * Deep Learning
-* Generative AI
+* IA Generativa
 * Data Analytics
-* AI Applications for Customer Success
+* Aplicaciones de IA para Customer Success
 
-## 🔗 Connect With Me
+## 🔗 Conecta conmigo
 
 * LinkedIn: [www.linkedin.com/in/yasmin-beltre](http://www.linkedin.com/in/yasmin-beltre)
 * GitHub: github.com/yasminbeltre
