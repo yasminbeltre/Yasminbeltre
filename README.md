@@ -6,6 +6,11 @@ Soy una profesional de Customer Success y Operaciones con experiencia en gestió
 
 Actualmente, estoy ampliando mis conocimientos en Análisis de Datos, Inteligencia Artificial y Machine Learning mediante proyectos prácticos enfocados en la resolución de desafíos empresariales reales.
 
+## 📄 Currículum Vitae
+
+[![CV Español](https://img.shields.io/badge/CV-Español-1F4E79?style=flat-square)](./CV_Yasmin_Beltre_2026.pdf)
+[![Resume English](https://img.shields.io/badge/Resume-English-2E75B6?style=flat-square)](./CV_Yasmin_Beltre_2026_EN.pdf)
+
 ## 🚀 Áreas de interés
 
 * Analítica de Customer Success
@@ -58,4 +63,4 @@ Análisis académico sobre sesgo algorítmico aplicado a Customer Success y oper
 - GitHub: https://github.com/yasminbeltre
 
 ---
-*Portafolio desarrollado como parte del programa de formación en Inteligencia Artificial - INDOTEL 2026 — Santo Domingo, República Dominicana.*
+*Portafolio desarrollado como parte del programa de formación en Inteligencia Artificial INDOTEL/BID/CYMETRIA 2026 — Santo Domingo, República Dominicana.*
