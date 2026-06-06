@@ -8,8 +8,8 @@ Actualmente, estoy ampliando mis conocimientos en Análisis de Datos, Inteligenc
 
 ## 📄 Currículum Vitae
 
-[![CV Español](https://img.shields.io/badge/CV-Español-1F4E79?style=flat-square)](./CV_Yasmin_Beltre_2026_ES.pdf)
-[![Resume English](https://img.shields.io/badge/Resume-English-2E75B6?style=flat-square)](./CV_Yasmin_Beltre_2026_EN.pdf)
+[CV en Español](https://github.com/yasminbeltre/Yasminbeltre/raw/main/CV_Yasmin_Beltre_2026.pdf) 
+[Resume in English](https://github.com/yasminbeltre/Yasminbeltre/raw/main/Yasmin_Beltre_Resume_2026.pdf)
 
 ## 🚀 Áreas de interés
 
