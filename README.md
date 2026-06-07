@@ -63,4 +63,4 @@ Análisis académico sobre sesgo algorítmico aplicado a Customer Success y oper
 - GitHub: https://github.com/yasminbeltre
 
 ---
-*Portafolio desarrollado como parte del programa de formación en Inteligencia Artificial INDOTEL/BID/CYMETRIA 2026 — Santo Domingo, República Dominicana.*
+*Portafolio desarrollado como parte del programa de formación en Inteligencia Artificial INDOTEL 2026 — Santo Domingo, República Dominicana.*
