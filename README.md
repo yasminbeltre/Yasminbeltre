@@ -8,8 +8,7 @@ Actualmente, estoy ampliando mis conocimientos en Análisis de Datos, Inteligenc
 
 ## 📄 Currículum Vitae
 
-[CV en Español](CV_Yasmin_Beltre_Es.pdf)
-[Resume in English](Resume_Yasmin_Beltre_En.pdf)
+[CV en Español](CV_Yasmin_Beltre_ES.pdf) | [Resume in English](Resume_Yasmin_Beltre_EN.pdf)
 
 ## 🚀 Áreas de interés
 
